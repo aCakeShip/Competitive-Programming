@@ -1,3 +1,6 @@
+# This is basically practice for me. I'm converting C++ code to python for each new algorithm I learn. 
+# good practice for the brain.
+
 class Graph:
     # Dict to store data for nodes already traversed.
     _visited = {}
